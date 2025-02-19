@@ -1,5 +1,5 @@
 let alreadyGeneratedNumbers = []
-let limitNumber = 100
+let limitNumber = 1000
 let randomNumber = generateRandomNumber();
 let tries = 0
 
